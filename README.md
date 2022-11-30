@@ -42,77 +42,7 @@ Providing data and clicking on Sign Up button system checks information and if e
 ### Home Activity
 <img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331196-b953c1af-ff42-4492-a24a-222581b1b033.jpg">
 
-After giving correct credentials user is redirect to this page with a toast message. This page contains added journals by logged in users preview with image, posted date and title of journal. In the bottom right there is plus icon to add new journal and in top left there is a navigation menu icon. Just in right side of it user can see app name “JourneyJournal”.  Journal are shown in grid view of 2. They are shown by using recycle view.
-
----
-
-### Navigation Drawer Activity
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331205-1d2c488f-00dc-434a-a62f-0ddbb95c3664.jpg">
-
-After giving correct credentials user is redirect to this page with a toast message. This page contains added journals by logged in users preview with image, posted date and title of journal. In the bottom right there is plus icon to add new journal and in top left there is a navigation menu icon. Just in right side of it user can see app name “JourneyJournal”.  Journal are shown in grid view of 2. They are shown by using recycle view.
-
----
-
-### Add New Journal Activity
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331192-5115661c-0200-4aee-918b-ff8d4e73c1ff.jpg">
-
-After clicking plus icon at home or add new journal option from navigation drawer user is promoted to this page. Here user should give required information, select image from gallery by clicking image icon and choose a location from map icon user can add new journal to the database. Selecting image is necessary to add journal to database. After successful user is redirected to home page with toast message where they can see currently added journal.
-
----
-
-### Gallery Activity
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331185-9ce92c0a-daed-40a3-995e-85973099dde4.jpg">
-
-By clicking Gallery from navigation drawer menu user is promoted to this page where user can get a look towards images that they have added to database.
-
----
-
-### Graph Activity
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331180-a057b23e-2a3e-40a4-b682-e113fcdbfb16.jpg">
-
-By clicking Graph from navigation drawer menu user is promoted to this page where user can get a look towards date of the journal added with date when they were added.
-
----
-
-### Map Activity
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331178-e9ff9b86-d199-4cc0-9e3a-ba21ffafd316.jpg">
-
-By clicking Map from navigation drawer menu user is promoted to this page where user can see their current location with blue dot in map and can search for places using search. This will help users to find out locations.
-
----
-
-### Recycle view menu
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331172-77565c4b-c76a-4fa0-bcc7-6506764ae9ba.jpg">
-
-In Home page user can get menu with each grid. By clicking menu they get options like edit and delete. By using this user can edit or delete journal without going to detail page.
-
----
-
-### Journal Detail Activity
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331163-72c996db-6708-4159-be5a-fa3274249afa.jpg">
-
-After clicking any of the grid from home user is redirect with detail page of that journal. In this page user can have a detail view to what they have added on that particular journal. Here user get options to edit, delete and share the journal.
-
----
-
-### Edit Journal Activity
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331168-f46a7a43-0930-4eb8-8a67-84b2234411c0.jpg">
-
-By clicking on edit icon from detail page or clicking edit option from home page user is redirected to this page. Here user can add or remove required information and click update journal to update journal.
-
----
-
-### Delete Journal
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331161-0e301feb-ad53-4b48-8097-d1ce19af7621.jpg">
-
-By clicking on delete icon from detail page user get an alert dialog saying are you sure if user click ok then the journal is deleted from database and redirected to home page. If not than alert dialog disappear. 
-
----
-
-### Share Journal
-<img width="325" height="700" src="https://user-images.githubusercontent.com/78890102/184331158-dc54f0e9-0125-4cf0-8e44-771d8f607937.jpg">
-
-By clicking on delete icon from detail page user get an alert dialog saying are you sure if user click ok then the journal is deleted from database and redirected to home page. If not than alert dialog disappear. 
+After giving correct credentials user is redirect to this page with a toast message. 
 
 ---
 
@@ -129,4 +59,8 @@ By clicking Sign Out from navigation drawer menu user is promoted to an alert di
 After user sign out is successful they are directed to login page with a toast message. If user wants to exit application they can click the cross icon at Top right of the application which will allow user to exit application.
 
 ---
+
+
+
+
 
